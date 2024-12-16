@@ -32,9 +32,17 @@ nav{
 .navbar-toggler-icon{
     color: white;
 }
+.btn-close{
+    margin-left: 50%;
+    margin-top: 50px;
+    
+    
+}
 .offcanvas-body{
     color: #8859EC;
+    margin-left: 50%;
 }
+
 .home{
     margin-top: 90px;
 }
