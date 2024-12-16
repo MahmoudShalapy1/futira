@@ -35,6 +35,9 @@ nav{
 .offcanvas-body{
     color: #8859EC;
 }
+.home{
+    margin-top: 90px;
+}
 .home h1{
     font-size: 45px;
     font-weight: 700;
