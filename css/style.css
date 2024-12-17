@@ -101,11 +101,11 @@ p{
 .content{
     padding-top: 150px;
 }
-.stat{
-    width: 100px;
+.stat p{
+    font-size: 12px;
 }
 .stat h3{
-    font: 45px 'outfit' ;
+    font: 30px 'outfit' ;
 }
 /* end about-us  */
 /* start features  */
