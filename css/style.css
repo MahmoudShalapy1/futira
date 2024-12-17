@@ -10,6 +10,7 @@ header{
     background-image: url(/images/hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    z-index: 100;
 }
 header .btn{
     width: 63px;
@@ -70,9 +71,7 @@ p{
     width: 120px;
 }
 /* srart about-us*/
-.about-us{
-    padding-block: 100px;
-}
+
 .about-us h3{
     color: #8859EC;
     font-size: 20px;
@@ -93,4 +92,18 @@ p{
     width: 135px;
     height: 53px;
     font-size: 15px;
+}
+.bg-about{
+    right: 0;
+    z-index: -1;
+    top: 0;
+}
+.content{
+    padding-top: 150px;
+}
+.stat{
+    width: 100px;
+}
+.stat h3{
+    font: 45px 'outfit' ;
 }
