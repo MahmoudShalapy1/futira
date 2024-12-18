@@ -187,5 +187,15 @@ p {
 }
 /* end news  */
 /* start team  */
+.team h2{
+  color: #8859EC;
+  font-size: 40px;
+  font-family: 'outfit';
 
+}
+.team p{
+  font-size:15px;
+  color: #fff;
+  line-height: 19px;
+}
 /* end team  */
