@@ -198,4 +198,9 @@ p {
   color: #fff;
   line-height: 19px;
 }
+@media (min-width:768px) {
+  .team .pe-md-5{
+    border-right: #fff 1px solid;
+  }
+}
 /* end team  */
